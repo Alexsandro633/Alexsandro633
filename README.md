@@ -1,4 +1,4 @@
-- 👋 ola, eou sou @Alexsandro633
+- 👋 ola, eou sou alexssandro dias franciosco 
 - 👀 sou progamador
 - 🌱 começando agora em t.i.
 - 📫 prertendo me formar em analise e desenvolvimento de sistemas
