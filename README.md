@@ -1,7 +1,7 @@
 - 👋 ola, eou sou @Alexsandro633
 - 👀 sou progamador
 - 🌱 começando agora em t.i.
-- 📫 prertendo me formar em analise e desemvolvimento de sistemas 
+- 📫 prertendo me formar em analise e desenvolvimento de sistemas
 
 <!---
 Alexsandro633/Alexsandro633 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
