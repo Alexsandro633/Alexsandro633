@@ -1,4 +1,4 @@
-- 👋 ola, eou sou alexssandro dias francisco
+- 👋 ola, eou sou alexsandro dias francisco
 - 👀 sou progamador
 - 🌱 inciante em t.i.
 - 📫 prertendo me formar em analise e desenvolvimento de sistemas
