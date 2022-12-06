@@ -1,7 +1,7 @@
 - 👋 ola, eou sou alexsandro dias francisco
 - 👀 sou progamador
-- 🌱 inciante em t.i.
-- 📫 prertendo me formar em analise e desenvolvimento de sistemas
+- 🌱 estudante de t.i.
+- 📫 analise e desenvolvimeto de sistemas-estacio de sa 
 
 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
